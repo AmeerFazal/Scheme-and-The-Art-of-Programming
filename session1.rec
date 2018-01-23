@@ -1,0 +1,31 @@
+Welcome to DrRacket, version 6.7 [3m].
+Language: scheme, with debugging; memory limit: 128 MB.
+#<procedure:>>
+15
+15
+#<procedure:>>
+-200
+-200
+#<procedure:>>
+12345678901234
+12345678901234
+#<procedure:>>
+alphabet-soup
+alphabet-soup
+#<procedure:>>
+alphabet-soup
+alphabet-soup
+#<procedure:>>
+'alphabet-soup
+alphabet-soup
+#<procedure:>>
+-238987788900987788
+-238987788900987788
+#<procedure:>>
+9.788156465451456e+29
+9.788156465451456e+29
+#<procedure:>>
+-9.546453648498467e+38
+-9.546453648498467e+38
+#<procedure:>>
+> 
